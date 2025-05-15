@@ -1,0 +1,12 @@
+{
+  "name": "ar-omgel",
+  "version": "1.0.0",
+  "description": "Una tienda de ropa moderna con experiencia de prueba virtual usando realidad aumentada (AR), construida con React, TypeScript y una arquitectura serverless.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
